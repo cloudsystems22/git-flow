@@ -1,0 +1,8 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cloudsystems22/git-flow.git",
+  "author": "cloudsystems22 <cloudsystems22@gmail.com>",
+  "license": "MIT"
+}
